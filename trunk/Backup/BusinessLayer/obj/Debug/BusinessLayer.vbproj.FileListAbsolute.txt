@@ -1,0 +1,5 @@
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\BusinessLayer\obj\Debug\BusinessLayer.pdb

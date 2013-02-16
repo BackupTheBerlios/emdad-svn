@@ -1,0 +1,15 @@
+C:\Users\foVad\Documents\Visual Studio 2008\Projects\Emdadv1.0\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\foVad\Documents\Visual Studio 2008\Projects\Emdadv1.0\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\foVad\Documents\Visual Studio 2008\Projects\Emdadv1.0\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\foVad\Documents\Visual Studio 2008\Projects\Emdadv1.0\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\foVad\Documents\Visual Studio 2008\Projects\Emdadv1.0\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\binny\Desktop\pictures for project\Emdadv1.0\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\binny\Desktop\pictures for project\Emdadv1.0\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\binny\Desktop\pictures for project\Emdadv1.0\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\binny\Desktop\pictures for project\Emdadv1.0\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\binny\Desktop\pictures for project\Emdadv1.0\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\BusinessLayer\obj\Debug\BusinessLayer.pdb

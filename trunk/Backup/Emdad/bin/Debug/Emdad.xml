@@ -1,0 +1,268 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Emdad
+</name>
+</assembly>
+<members>
+<member name="M:Emdad.CommandsGrid.ConfigureGrid">
+	<summary>
+ Configure grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsGrid.AddColumns(System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="PropertyName"></param>
+	<param name="HeaderText"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsGrid.PopulateGrid">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:Emdad.CommandsGrid">
+	<summary>
+ Custom control for Commands 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.drpFingerCombination.Populate">
+	<summary>
+ populate fingerCombination
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Emdad.drpFingerCombination">
+	<summary>
+ usercontrol to display the finger combination in a combobox
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.SelectPictureCommandSoundGridCtrl.ConfigureGrid">
+	<summary>
+ Configure grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.SelectPictureCommandSoundGridCtrl.AddColumns(System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="PropertyName"></param>
+	<param name="HeaderText"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.SelectPictureGrid.ConfigureGrid">
+	<summary>
+ Configure grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.SelectPictureGrid.AddColumns(System.String,System.String)">
+	<summary>
+ Add Columns in the grid
+ </summary>
+	<param name="PropertyName"></param>
+	<param name="HeaderText"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.SelectPictureGrid.PopulateGrid">
+	<summary>
+ Populate Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.SelectPictureGrid.PopulateGrid(System.Int32)">
+	<summary>
+ Populate Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Emdad.SelectPictureGrid">
+	<summary>
+ Custom control for picture 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.CustomCommandsFrm.AddCommandToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Show commandEntryForm is a function to Display CommandEntryForm
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.CustomCommandsFrm.btnClose_Click(System.Object,System.EventArgs)">
+	<summary>
+ when button Close is Clicked
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.Operations.ImageToByte(System.Drawing.Image)">
+	<summary>
+	</summary>
+	<param name="_image"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Emdad.Operations.BytesToImageDrawing(System.Byte[])">
+	<summary>
+	</summary>
+	<param name="_imageBytes"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsEntryFrm.btnOk_Click(System.Object,System.EventArgs)">
+	<summary>
+ button ok is clicked
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsEntryFrm.ValidateControl">
+	<summary>
+ Validate function is used to check whether the datas inserted in to the database are genuine
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsEntryFrm.btnCancel_Click(System.Object,System.EventArgs)">
+	<summary>
+ Button Cancel Event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsEntryFrm.ConfigureControls">
+	<summary>
+ configure Sound
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsEntryFrm.PopulateObject">
+	<summary>
+ populate sound and command
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.CommandsEntryFrm.CommandEntryFrm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Load form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="T:Emdad.CommandsEntryFrm">
+	<summary>
+ this form is used to insert the command and sound into the database.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Emdad.BrowseFileCtrl.FilePath">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Emdad.BrowseFileCtrl.Title">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Emdad.BrowseFileCtrl.FileType">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Emdad.BrowseFileCtrl.ValidateProperties">
+	<summary>
+ Validate function is used to check whether the datas inserted in to the database are genuine
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Emdad.BrowseFileCtrl.configureOpenDialgoue">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.BrowseFileCtrl.ReadFile">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Emdad.AddPictureFrm.PopulateObject">
+	<summary>
+ populate control
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.AddPictureFrm.AddPictureFrm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Load Form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.AddPictureFrm.ValidateControl">
+	<summary>
+ Validate function is used to check whether the datas inserted in to the database are genuine
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Emdad.AddPictureFrm">
+	<summary>
+ This form is used to add picture in to the database
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.drpCommandsCtrl.PopulateControl">
+	<summary>
+  Populate drop down 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.drpCommandsCtrl.drpCommandsCtrl_Load(System.Object,System.EventArgs)">
+	<summary>
+ load drpcommandCtrl 
+ </summary>
+</member><member name="M:Emdad.drpCommandsCtrl.Populatelistbyfingercombination(System.Int32)">
+	<summary>
+  Populate drop down 
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Emdad.drpCommandsCtrl">
+	<summary>
+ 
+ drpCommandCtrl usercontrol is used to get retrieve the command table values from database and display it in the combobox
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.GeneralViewUserCtrl.PopulateControlByFingerCombination(System.Int32)">
+	<summary>
+  Here you need to populate commands, sounds and picture by finger combination
+ 
+ </summary>
+	<param name="fingerCombination"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.frmMain.frmMain_Load(System.Object,System.EventArgs)">
+	<summary>
+  Form load event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.frmMain.btnUserLogin_Click(System.Object,System.EventArgs)">
+	<summary>
+  Button user click event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.frmMain.btnViewPictures_Click(System.Object,System.EventArgs)">
+	<summary>
+ Button Add pictures event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Emdad.frmMain.PopulateVisibility">
+	<summary>
+  Populate visibility 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Emdad.frmMain.btnCustomCommands_Click(System.Object,System.EventArgs)">
+	<summary>
+ button Custom pictures Event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="T:Emdad.frmMain">
+	<summary>
+  Main form
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,7 @@
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\bin\Debug\DataProvider.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\bin\Debug\DataProvider.pdb
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\bin\Debug\BusinessLayer.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\bin\Debug\BusinessLayer.pdb
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\obj\Debug\DataProvider.dll
+C:\Users\foVad\Desktop\Emdadv1.0\Emdadv1.0\Backup\DataProvider\obj\Debug\DataProvider.pdb
